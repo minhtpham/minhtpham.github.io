@@ -1,8 +1,9 @@
 title: Minh Pham 
 
 avatar: "/assets/img/profilepic.jpg" 
+round-avatar: false
 
-# 
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Product and data analytics. I wish to leverage my engineering and data analytics skills to build great products and make an impact! I have a wide range of experience from consulting, product management, to product design and engineering.
   <br><br>
