@@ -8,7 +8,7 @@ https://github.com/chriskhanhtran/minimal-portfolio/blob/master/posts/portfolio-
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-<img src="images/demo.gif?raw=true"/>
+<img src="https://github.com/minhtpham/minhtpham.github.io/blob/main/demo.gif"/>
 
 ### Installation
 
