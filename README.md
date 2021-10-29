@@ -3,6 +3,7 @@
 ## Website to self:
 https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
 https://github.com/chriskhanhtran/minimal-portfolio/blob/master/posts/portfolio-tutorial.md
+https://chriskhanhtran.github.io/about/ 
 
 ### Introduction
 
